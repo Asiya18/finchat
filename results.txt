@@ -1,0 +1,11 @@
+Enter company name: tesla
+Enter your question: what are total assets?
+Bot: tesla total assets in 2025 were $137806 million.
+
+Enter company name: microsoft
+Enter your question: what is the operating cash flow?
+Bot: microsoft operating cash flow in 2025 was $136162 million.
+
+Enter company name: apple
+Enter your question: how has net income changed over the last year? 
+Bot: Net income increased by $18274 million compared to last year.
